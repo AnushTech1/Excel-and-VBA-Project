@@ -25,7 +25,4 @@ Next
 <img width="1366" height="768" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/a30b23f0-73b5-4fdf-8c1a-7b9b33b342a3" />
 This images can help and guide.
 
-### Step 4: Operations.
-Open sample excle file and change name of sheet3 into New Vehicals and see magic.
-
 Follow for Continue and Thank you for visit.
